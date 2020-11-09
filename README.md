@@ -18,7 +18,7 @@ Também conta com uma busca de mais pacientes cadastrado via API, e a mesma poss
 
 ## Imagem principal
 
-![alt text] (https://github.com/camilalves13/cadastro-pacientes-imc/blob/master/img/index.png?raw=true)
+![alt text](https://github.com/camilalves13/cadastro-pacientes-imc/blob/master/img/index.png?raw=true)
 
 ## Licença
 
