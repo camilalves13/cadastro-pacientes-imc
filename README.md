@@ -16,6 +16,10 @@ Sistema para cadastrar pacientes e calcular IMC automáticamente.
 A página é uma funcionalidade para adicionar pessoas numa tabela que contém dados para o cálculo do IMC, assim que inseridos o formulário faz toda a validação dos campos de preenchimento, caso deixou algo sem preencher ou digitar peso ou altura que não seja correspondente aos seres humanos, o sistema notificará e não adiciona até todos serem preenchidos corretamente.
 Também conta com uma busca de mais pacientes cadastrado via API, e a mesma possui um filtro que traz as pessoas pelas iniciais dos nomes.
 
+## Imagem principal
+
+![alt text] (https://github.com/camilalves13/cadastro-pacientes-imc/blob/master/img/index.png?raw=true)
+
 ## Licença
 
     The MIT License (MIT)
